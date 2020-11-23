@@ -1,0 +1,24 @@
+footer{
+  background-color: darkblue;   
+  text-align: center;
+  height: 120px;
+  padding: 5px;
+
+}
+
+
+
+footer h6{
+  color: yellow;
+}
+
+.container{
+  background-color: cornflowerblue;
+  
+}
+
+.volver{
+  color: black;
+font-style: oblique;
+}
+
