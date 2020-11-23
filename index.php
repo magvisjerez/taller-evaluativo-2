@@ -17,12 +17,12 @@
     <main>
         <div class="row justify-content-center">
               <section>
-              <img src="principal.jpg" width="600" height="445" class="d-inline-block align-center" alt="" loading="lazy">   
+              <img src="principal.jpg" width="600" height="435" class="d-inline-block align-center" alt="" loading="lazy">   
                 
               </section>  
         </div>
         <div class="row justify-content-center">
-            <a href="menuPrincipal.php">Ingresar al Menu</a>
+            <a href="menuPrincipal.php" class="volver">Ingresar al Menu</a>
             </div>   
     </main>
     <footer>

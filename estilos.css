@@ -1,8 +1,9 @@
 footer{
-  background-color: darkblue;   
+  background-color:blue;   
   text-align: center;
   height: 120px;
   padding: 5px;
+  margin-top: 20px;
 
 }
 
@@ -19,6 +20,6 @@ footer h6{
 
 .volver{
   color: black;
-font-style: oblique;
+font-style: italic;
 }
 

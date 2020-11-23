@@ -17,6 +17,10 @@
                      <div class="col-4 ">
                      <a href="index.php" class="volver">Volver a inicio</a>
                      </div>
+                     <div class="col-4  text-right">
+                     <a class="navbar-brand" href="#">
+                     <img src="principal.jpg" width="60" height="60" class="d-inline-block align-top" alt="" loading="lazy"> </a>
+                     </div>
                      <div class="col-4  text-center">
                             <h3>Ingreso de Articulos</h3>
                      </div>
@@ -51,18 +55,9 @@
                             </div>
                             <button type="submit" class="btn btn-primary btn-block" name="botonEnvio">Registrar Articulo</button>
                      </form>
-                     <div class="row justify-content-center">
-                            <img src="principal.jpg" width="250" height="180" class="d-inline-block align-center" alt="" loading="lazy">   
-                     </div>
-             </div>
-            
-             <div class="row ">
-                <a href="index.php" class="volver">Volver a inicio</a>
-             </div>
-             
-       
-          
-
+                     
+             </div> 
+                  
        </main>
        <footer>
        <div class="row text-center">
